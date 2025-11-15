@@ -1,15 +1,15 @@
 # Saving-animals-bot
-A bot to spread awareness about the animalrescue. I do and encourage people to donate to help me save more animals
+A bot to spread awareness about the animal rescue I do and encourage people to donate to help me save more animals
 
 import tweepy
 import time
 import random
 
 # Twitter API credentials - YOU WILL FILL THESE IN LATER
-API_KEY = "your_api_key_here"
-API_SECRET = "your_api_secret_here"
-ACCESS_TOKEN = "your_access_token_here"
-ACCESS_TOKEN_SECRET = "your_access_token_secret_here"
+API_KEY = "C0Cd8BIjLAnBRHZzvTfGxJ3E7"
+API_SECRET = "msL4mzzIdnpHjmwD2xuyhsosDxIVSxN50bFYxgyQE3W4taSGHY"
+ACCESS_TOKEN = "220339465-Tcf0rypXCRXHQD0mm71s6LPzjjQLrHHU4yTpevMF"
+ACCESS_TOKEN_SECRET = "hacXFuNlcPJ6QiHfUDsbTcSQ9mW2ENesFq7D78Hvl9Vb0"
 
 # Messages about animal rescue (customize these!)
 MESSAGES = [
