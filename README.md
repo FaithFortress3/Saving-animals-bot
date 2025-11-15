@@ -11,14 +11,14 @@ API_SECRET = "msL4mzzIdnpHjmwD2xuyhsosDxIVSxN50bFYxgyQE3W4taSGHY"
 ACCESS_TOKEN = "220339465-Tcf0rypXCRXHQD0mm71s6LPzjjQLrHHU4yTpevMF"
 ACCESS_TOKEN_SECRET = "hacXFuNlcPJ6QiHfUDsbTcSQ9mW2ENesFq7D78Hvl9Vb0"
 
-# Messages about animal rescue (customize these!)
+# Messages about animal rescue 
 MESSAGES = [
-    "🐾 Every animal deserves a loving home. Help us save more lives! Donate today: [YOUR_DONATION_LINK] #AnimalRescue #SaveAnimals",
-    "🐕 We rescued 5 dogs this week, but there are so many more waiting. Your donation makes a difference! [YOUR_DONATION_LINK] #RescueDogs",
-    "🐱 Cats need love too! Support our mission to rescue and rehome animals in need. [YOUR_DONATION_LINK] #CatRescue #AdoptDontShop",
-    "❤️ Behind every rescue is a story of hope. Help us write more happy endings! Donate: [YOUR_DONATION_LINK] #AnimalWelfare",
-    "🏠 A small donation can give an animal a second chance at life. Every dollar counts! [YOUR_DONATION_LINK] #RescueAnimals",
-    "🐾 Did you know? Your support helps us provide food, shelter, and medical care to abandoned animals. [YOUR_DONATION_LINK] #AnimalRescue",
+    "🐾 Every animal deserves a loving home. Help me save more lives! Donate today: $marcecats369 #AnimalRescue #SaveAnimals",
+    " I rescue animals as many as I can,but there are so many more waiting. please help me help them. Your donation makes a difference! $marcecats369 #rescuecats #veteranrescuer #RescueDogs",
+    "🐱 Cats need love too! Support my mission to rescue and rehome animals in need I want to teach children compassion over hatred.  #CatRescue #AdoptDontShop",
+    "❤️ Behind every rescue is a story of hope. Help me write more happy endings! children deserve to know unconditional love from an animal. and any children unfortunately pick up what their parents teach them if their parents do not like animals. I want to break that cycle, but I need your help. Donate: $marcecats369 #compassionforkids #AnimalWelfare",
+    "🏠 A small donation can give an animal a second chance at life. Every dollar counts! $marcecats369 help me help kids love animals so animals can show children unconditional love #RescueAnimals",
+    "🐾 Did you know? Your support helps provide food, shelter, and medical care to abandoned animals. $marcecats369 #AnimalRescue",
 ]
 
 def post_tweet():
